@@ -1,0 +1,14 @@
+@import '../abstract/variaveis';
+
+#sobre {
+    display: inline-flex;
+    align-items: center;
+    h3{
+        font-size: 2em;
+        color: $cor-primaria;
+        margin-bottom: 30px;
+    }
+    p {
+        font-style: italic;
+    }
+}
